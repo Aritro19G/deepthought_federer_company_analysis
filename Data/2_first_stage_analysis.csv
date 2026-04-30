@@ -1,0 +1,57 @@
+company_name,website,status,out_reason,segment,what_they_make,source
+Axiom Chemicals,https://www.axiomchemicals.in/ ,in,,performance chemicals,"chemical manufacturer, exporter, and supplier",google
+Prakash Chemicals International Private Limited (PCIPL),https://pciplindia.com/ ,out,not chemical manufacturer,performance chemicals,global chemical distribution and manufacturing.,google
+Angel Chemicals Pvt. Ltd.,https://angelchembaroda.com/ ,in,,performance chemicals,"manufacturing and supplying a wide range of Water Treatment Chemical, Water Treatment Plant, Boiler Water Chemical, Water Analysis Equipment, etc", google
+Maxwell Additives Pvt. Ltd.,https://maxwelladditives.com/ ,in,,performance chemicals,"Water treatment, corrosion inhibitors, phosphonates, antiscalants, dispersant polymers",google
+LAVEEK ADDCHEM,https://laveekaddchem.com/ ,in,,performance chemicals,"Polymer Stabilization,supplying Additives and Concentrates",google
+Tatva Chintan Pharma Chem Ltd,https://www.tatvachintan.com/ ,out,too large,specialty chemicals,"Catalysts (PTC), Electrolyte Salts and Solutions (ESS), and Pharmaceutical & Agrochemical Intermediates and Other Specialty Chemicals (PASC).",google
+Allchem Lifescience Ltd,https://www.allchemlifescience.com/ ,in,,specialty chemicals,Pharmaceuticals and specialty chemicals,google
+Shiv agro chemical industries,https://www.shivagrochem.com/ ,out,incorrect segment,,"bio pesticides, granuals, bio fungicides and growth promoters.",google
+Simalin Chemical Industries Private Ltd,https://simalin.com/ ,in,,performance chemicals,"polymar additives, resins, water treatment chemicals",google
+Monachem Specialities LLP,https://www.monachem.com/ ,out,not chemical manufacturer,specialty chemicals,"Pharma, Agro, Personal Care, Flavour, Fragrance, and Nutrition industries.",google
+Vadodara Agro Sciences,https://www.vadodaraagro.in/ ,out,incorrect segment,specialty chemicals,"Bio Fungicides, Bio Insecticide, Agricultural Weedicides, Agricultural Herbicides and Plant Growth Promoter.",google
+Destiny Chemicals,https://destinychemicals.co.in/ ,in,,specialty chemicals,"Potassium Chemical Compounds, Ammonium Chemical Compounds, Calcium Chemical Compounds, Sodium Chemical Compounds",google
+P K Chlorochem Private Limited,https://www.pkchlorochem.com/ ,in,,specialty chemicals,"Pharmaceutical industry, Dyestuff, Agrochemicals industry",google
+Aqua Safe Mine,https://www.aquasafemine.com/ ,out,"plant installer, not manufacturer",performance chemicals,"water treatment of boiler, industrial waste-water treatment systems and specialty water treatment formulations.",google
+Speratech Solutions Pvt. Ltd.,https://www.sepratech.in/ ,out,not chemical manufacturer,specialty chemicals,"petrochemical, biotech, biochemical, pharmaceutical, food & beverage, dairy, sugar & distillery",google
+Seabert Chemicals Pvt. Ltd.,https://seabertchemicals.com/ ,in,,specialty chemicals,"pharma ingredients, personal care, food and nutrition, feed fertilizer",google
+Ravi Enviro Industries Pvt Ltd,https://www.ravienviro.com/ ,out,"plant installer, not manufacturer",performance chemicals,"Water Treatment Plants (WTP), Wastewater Treatment Plants (WWTP), Sewage Treatment Plant (STP), Effluent Treatment Plant (ETP)",google
+Kats Services Corporation,https://www.katsindia.in/ ,out,"service oriented, too small",performance chemicals,water treatment chemicals,google
+Anjanee Chemical Industries,https://www.anjaneechemical.in/ ,in,,performance chemicals,"disinfection, deodorizing, water treatment, endodontic, nerve agent neutralization",google
+Gujarat Alkalies & Chemicals Limited (GACL),https://gacl.com/ ,out,too large,performance chemicals,"Textile, Alumimium, Pharmaceuticals, Water Treatment/Purification, Rubber, Soaps & Detergent, Paper, Dyes, Sugar, Edible Oil, Beverages, PVC, Polymer",google
+Amrit Construction Chemicals & Waterproofing System,http://amritsystem.com/ ,out,incorrect segment,, waterproofing solutions that protect buildings and enhance their durability,google
+Best value chem pvt Ltd,https://www.bestvaluechem.com/ ,in,,specialty chemicals,"specialty chemicals, specializing in the science of Flavors, fragrances, Personal care & Pharma.",google
+Herring Water Technologies,https://herring.co.in/ ,out,not chemical manufacturer,performance chemicals,water treatment problems & solutions,google
+Harsh Water Technology,http://www.harshwatertechnology.com/ ,out,"plant installer, not manufacturer",performance chemicals,"Water Treatment Plant, Instant Water Chiller, Demineralization Water Plant, Aqua Cyclone Water Purifier, etc.",google
+Divine Chemicals,https://www.divinechemicals.co.in/ ,in,,performance chemicals,"Water Testing Kits, Sodium Hypochlorite Solution, Water Treatment Chemicals, Alum Chemical, etc.",google
+Divya Chemicals,https://www.divyachem.com/ ,in,,performance chemicals,"anti corrosive coating, industrial resin flooring, adhesive & sealant, construction chemicals",google
+Active Water Care,https://www.activewatercare.com/ ,out,not chemical manufacturer,performance chemicals,"Commercial RO Water Purifier, Domestic RO Water Purifier,Gas and Elecrical Water Heater, Water Dispenser, RO Plant",google
+Shiv Shakti Trading Corporation,https://shivshaktiindia.com/ ,out,not chemical manufacturer,specialty chemicals," pharmaceutical, textile and chemical industries",google
+Swati Water Purification,https://swatiwaterpurification.com/ ,out,wtp installer,performance chemicals,"Water Treatment Plants (WTP) ,Industrial Water Treatment Plant (IWTP) , Sewage Treatment Plants ( STP) , Wastewater Treatment Plants (WWTPs)",google
+Sara Incorporation,https://www.saraincorporation.co.in/ ,in,,performance chemicals,"Industrial Chemicals, Aluminum Chlorohydrate Powder, Poly Aluminium Chloride Powder, Potassium Chloride Powder, Potassium Nitrate Powder, Sodium Aluminate Liquid,",google
+Technofill Additives,https://www.technofilladditives.com/ ,in,,performance chemicals,"fluropolymers, polyisobutylene additives, additive masterbatches",google
+REHAU POLYMERS PVT LTD,https://www.rehau.com/in-en ,out,"german, not indian",performance chemicals,polymars,google
+Crystal Polymers and Engineering,https://www.thecpeb.com/ ,out,not chemical manufacturer,performance chemicals,"PEB structures, fabrication",google
+R Chemine Products Private Limited,https://www.rchemine.com/ ,in,,performance chemicals,"Functional Additives & Fillers for Plastics, Rubber, Paints, Coatings, Cosmetics & Printing Inks.",google
+TANVIKA POLYMERS PVT. LTD.,http://www.tanvikapolymers.com/ ,out,incorrect segment,,"PVC Shrink film, Decorative PVC shrink labels, printed PET/OPS shrink labels, printing BOPP, PE and other films.",google
+Kaka Polymers,https://www.kakapolymers.co.in/ ,out,incorrect segment,,"Nylon Granule, Plastic Granule, Polycarbonate Granule And Grinding, Polyphenylene Sulfide And Oxide Granule, ABS Plastic Granules, PBT Granules, Polyurethane Seal Granule, etc.",google
+Annexe Chem Private Limited,https://annexechem.com/ ,in,,specialty chemicals,"food-grade, pharma-grade, and lab-grade chemicals",google
+Kredence Performance Materials(India) Pvt. Ltd.,http://kredencematerials.com/ ,in,,specialty chemicals,specialty chemicals for the solar cell manufacturing industry,google
+Kutch Chemicals Industries Limited,https://www.kcil.co.in/ ,in,,specialty chemicals,"DYES INTERMEDIATES, CHLORINATED PARAFFIN, BENZENE BASED DERIVATIVES, and TOLUENE BASED DERIVATIVES",google
+Globomotive,https://www.globomotive.com/ ,in,,performance chemicals,"paints dryers, catalyst, Inks/pigments, stabilizers industrial chemicals",linkedin
+Indiana Chem-Port,https://www.indianachem-port.com/ ,in,,specialty chemicals,"Fine Chemical, Bulk Reagents, Bulk Ingredients, ACS Reagent, LR, AR & GR Reagent, Pharmacopoeia, Food & Nutraceutical, Ultra Pure Trace Metal, and inorganic fine chemical",linkedin
+Aries Chetech,https://arieschemical.com/ ,in,,performance chemicals,"water treatment chemicals, corrosion inhibitors, polymers, phosphonates, quaternary ammonium compounds, aerosol sprays.",google
+Zeal Enterprise,https://zealenterprise.in/ ,out,wrong industry,specialty chemicals,"Electronic Products, Electronic Sensors, and Electronic Controllers",google
+Chintan Enterprise,http://www.chintan.co.in/ ,out,"trader, not manufacturer",specialty chemicals,"Duran, GACL, sigmaaldrich, merck, Finar, MP Bio, Caustic Soda, Potassium Carbonate, Potassium Hydroxide, Hydrogen peroxide, Dichloromethane, Chloroform, Caustic Potash, Hydrazine Hydrate, Phosphoric Acid, and Poly aluminum chloride",google
+Transpek Industry Ltd.,http://transpek.com/ ,in,,specialty chemicals,"Chlorination (Inorganic Chemicals), Acid Chlorination with Thionyl Chloride (Acid Chlorides & Fatty Acid Chlorides), Alcohol Chlorination with Thionyl Chloride (Alkyl Chlorides), Friedel-Crafts Reactions, Sulfonation and Amidation.",google
+Apicore Pharmaceuticals,http://apicore.com/ ,out,not chemical manufacturer,specialty chemicals,pharmaceutical industry.,linkedin
+Avid Organics,https://www.avidorganics.net/en ,in,,specialty chemicals,"Carboxylic Acids & Esters, Amino Acids, Disinfectant and Antiseptics, Fungistatic/ Bacteriostatic Agents, Flavors & Fragrances, Personal Care, Nutrition, Pharmaceutical, Agrochemical, Industrial Sectors, Glycine, Glycolic Acid, Taurine, and Vanillin",linkedin
+Sulksh Chemicals,http://www.sulaksh-chemicals.com/ ,in,,specialty chemicals,"Industrial Chemicals, Speciality Chemicals, Inorganic Chemicals, and Organic Chemicals",linkedin
+SDI Group,https://www.sdichem.com/ ,in,,specialty chemicals,"specialty chemicals, dyes, pigments, and electroplating.",linkedin
+Acelor Industries Pvt. Ltd.,https://www.acelor.in/ ,in,,specialty chemicals,"specialty and performance chemicals, serving industries in agrochemicals, road construction, and custom applications.",linkedin
+Adroit Naturals Pvt. Ltd.,https://adroitnaturals.com/ ,in,,specialty chemicals,"Pharmaceutical Grade Pure Nicotine, Nicotine Salts Derivatives, Chemically Synthesized APIs, Pharmaceutical Intermediates & Specialty Chemicals.",linkedin
+Chemtech Intermediates Ltd.,https://cipl.co/ ,in,,specialty chemicals,Pharmaceutical chemicals,linkedin
+Sigma PRO Solutions,https://sigmaprosolutions.in/ ,out,no clear segment,specialty chemicals,"Industrial Chemicals, Domestic Chemicals, Detergent Raw materials, Other Chemical manufacturing and Raw Materials, and specialty chemicals",linkedin
+ACT Agrochemicals Pvt. Ltd.,http://www.actagrochem.com/ ,out,incorrect segment,,"Sulphur products, Fertilizers, Insecticides, Fungicides, Herbicides, Acaricides, Bio-Fertilizers, Household Products, plant protection products, and biostimulants",linkedin
+Kranti Chemicals,https://www.krantichemicals.com/ ,in,,specialty chemicals,"Leading Chemical Exporter, Chemical Manufacturer, KrantiChemicals , ChemicalManufacturer, ChemicalExporter, CustomSolutions, IndustrialManufacturing, TrustedSupplier, QualityProducts, and India",linkedin
+CLEVER PATHWAY PVT LTD,http://www.cleverpathway.com/ ,in,,specialty chemicals,"ndustrial chemicals, phase transfer catalyst, quats, compounds, pharmaceutical api's, bulk drugs, formulation, laboratory chemicals",linkedin
